@@ -1,0 +1,1 @@
+console.log('Home is good to work with')
